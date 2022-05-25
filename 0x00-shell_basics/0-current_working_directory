@@ -1,1 +1,3 @@
-dirnam $0
+#!/bin/bash
+pwd
+0-current_working_directory

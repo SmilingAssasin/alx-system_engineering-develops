@@ -1,1 +1,1 @@
-execute
+multple permissions

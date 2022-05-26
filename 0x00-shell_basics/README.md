@@ -1,1 +1,1 @@
-clear emacs
+tree
